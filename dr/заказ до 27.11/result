@@ -1,0 +1,7 @@
+void shift_enc(text_t &text, int shift);
+void shift_dec(text_t &text, int shift);
+void operator CODE(text_t &text, int shift);
+void operator DECODE(text_t &text, int shift);
+void gen_gamma(unsigned char *gam_buf);
+void code_text(std::ifstream &ifs, std::ofstream &ofs);
+void decode_text(std::ifstream &ifs, std::ofstream &ofs);

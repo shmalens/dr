@@ -1,0 +1,32 @@
+Dunaitsev
+Alexander
+Ivanovich
+Math 5
+French 5
+Biology 5
+Russian 5
+
+Ivanov
+Sergey
+Ivanovich
+Geometry 5
+French 5
+Finish 5
+Russian 5
+
+Cuper
+Sheldon
+Lee
+Math 5
+French 4
+Sociology 3
+Physics 5
+
+Evtushenko
+Jopa
+Jopa
+Subj 2
+Jjaja 3
+Meth 5
+Wasd 4
+
